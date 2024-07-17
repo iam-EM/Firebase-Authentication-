@@ -1,4 +1,3 @@
-# Nakiese-Authentication-
 # Firebase Authentication Project
 
 ## Overview
