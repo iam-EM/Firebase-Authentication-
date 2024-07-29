@@ -42,6 +42,11 @@ Before you begin, ensure you have the following:
      appId: "YOUR_APP_ID",
      measurementId: "YOUR_MEASUREMENT_ID"
    };
+
+   ### Project Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Google-Landing-Page.git
 ## Issues Encountered
 - Issue: Integrating Firebase with existing authentication methods.
 - Solution: Replacing the traditional authentication logic with Firebase's methods and ensuring smooth migration of user data.
