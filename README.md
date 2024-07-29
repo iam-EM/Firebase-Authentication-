@@ -46,7 +46,7 @@ Before you begin, ensure you have the following:
    ### Project Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Google-Landing-Page.git
+   git clone https://github.com/your-username/Firebase-Authentication.git
 ## Issues Encountered
 - Issue: Integrating Firebase with existing authentication methods.
 - Solution: Replacing the traditional authentication logic with Firebase's methods and ensuring smooth migration of user data.
